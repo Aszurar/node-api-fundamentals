@@ -89,6 +89,8 @@ https://github.com/user-attachments/assets/2d8cfac1-50cb-4215-9c85-bd5a76b6ab51
     node src/server.js
   ```
 
+- Após isso, basta realizar requisições de acordo com as rotas definidas no arquivo `src/routes.js` utilizando o **[Insomnia](https://insomnia.rest/)**, **[Postman](https://www.postman.com/)** ou via terminal com [**httpie](https://httpie.io/)**
+
 <div align="center">
 
 Desenvolvido por :star2: Lucas de Lima Martins de Souza.
