@@ -12,7 +12,7 @@
 <div align="center">
         <h2>
           <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-          <a href="#interrobang-funcionalidades">Funcionalidades</a>&nbsp;|&nbsp;
+          <a href="#dizzy-funcionalidades">Funcionalidades</a>&nbsp;|&nbsp;
           <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
           <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
           <a href="#package-como-baixar-e-executar-o-projeto">Baixar e Executar</a>&nbsp;
@@ -23,10 +23,7 @@
 
 <div align="center" >
 
-
 https://github.com/user-attachments/assets/2d8cfac1-50cb-4215-9c85-bd5a76b6ab51
-
-
 
 **[Vídeo no Youtube](https://www.youtube.com/watch?v=kZ6NV106AOM)**
 
@@ -42,7 +39,7 @@ https://github.com/user-attachments/assets/2d8cfac1-50cb-4215-9c85-bd5a76b6ab51
   
 ---
 
-## :interrobang: Funcionalidades
+## :dizzy: Funcionalidades
 
   1. Criamos um servidor HTTP com o módulo http do Node;
   2. Criamos um arquivo dedicado para definição de rotas, que chamará os métodos de manipulação do "banco de dados" e retornará as respostas;
