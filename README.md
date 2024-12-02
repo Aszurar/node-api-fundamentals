@@ -62,6 +62,7 @@ https://github.com/user-attachments/assets/2d8cfac1-50cb-4215-9c85-bd5a76b6ab51
 - O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
   1. **[node](https://nodejs.org/pt)**
+  2. **[JavaScript](https://developer.mozilla.org/pt1.BR/docs/Web/JavaScript)**
 
 ---
 
